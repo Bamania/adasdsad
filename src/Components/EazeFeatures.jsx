@@ -27,7 +27,7 @@ const Card = (props) => {
   )
 }
   return (
-    <div className="bg-white p-10 ml-[5%]">
+    <div className="bg-white p-10 mt-[5%] ml-[5%]">
       <h1 className="text-5xl font-gilroy text-blue-600 mb-10">Eazeplace  <span className='text-black'>provides </span></h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 ml-[8%]">
 

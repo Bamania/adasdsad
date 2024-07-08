@@ -16,10 +16,10 @@ const JoinSec = () => {
         </div>
         
         <div className="space-y-8">
-          <div className="bg-blue-100 p-8 w-[60%] rounded-lg shadow-lg flex justify-between">
+          <div className="bg-blue-100 p-8 w-[80%] rounded-lg shadow-lg flex justify-between">
             <div>
               <h3 className="text-3xl font-gilroy text-blue-500 pb-3 mb-2">Student</h3>
-              <p className="text-gray-600 font-gilroyMed text-base mb-6">
+              <p className="text-gray-600 font-gilroyMed text-lg mb-6">
                 <h1 className='pb-3'>Build your resume, get hired as an intern for various roles. <br /></h1>
                 Connect with bright-minded people and upskill yourself,<br />
                 get paid for your skill.
@@ -33,10 +33,10 @@ const JoinSec = () => {
             </div>
           </div>
           
-          <div className="bg-pink-100 w-[60%]  p-8 rounded-lg shadow-lg flex justify-between">
+          <div className="bg-pink-100 w-[80%]  p-8 rounded-lg shadow-lg flex justify-between">
             <div>
               <h3 className="text-3xl font-gilroyd text-black pb-3 mb-2">Employer</h3>
-              <p className="text-gray-600  font-gilroyMed text-base mb-6">
+              <p className="text-gray-600  font-gilroyMed text-lg mb-6">
                <h1 className='pb-3'> Are you an employer seeking to hire quality candidates for <br />
                 internships and projects? <br /></h1>
                 Eazeplace has this for you. Now hire talented and skilled <br />

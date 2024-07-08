@@ -33,7 +33,7 @@ export const Horizontal = () => {
 
 
                        
-       <div className="flex gap-4 items-center w-full p-8">
+       <div className="flex gap-4 items-center mt-[5%] w-full p-8">
       <div className="text-center mb-8 ml-[10%]">
         <h1 className="text-5xl font-bold text-blue-500">One Platform</h1>
         <h2 className="text-5xl font-bold text-black">3 Roles</h2>

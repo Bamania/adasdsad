@@ -23,7 +23,7 @@ export const Reviews = () => {
   ];
   
   return (
-    <div className="bg-white p-8">
+    <div className="bg-white p-8 mt-[4%]">
       <div className="text-left ml-[5%] mb-12">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-2">WHAT PEOPLE SAY</h2>
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold">
